@@ -3,16 +3,16 @@ export default ()=>{
         <div class="div_OhA8aLz">
             <div id="containerCard" class="div_5QdmBfH" style="overflow-x: hidden" data-index="0">
                 <div class="div_34opSRw">
-                    <img src="/public/img/picture/card-1.png">
+                    <img src="./public/img/picture/card-1.png">
                 </div>
                 <div class="div_34opSRw">
                     <h2 class="h2_f6PQD48">si me aceptaste...</h2>
-                    <img src="/public/img/picture/card-2_1.png">
+                    <img src="./public/img/picture/card-2_1.png">
                 </div>
                 <div class="div_34opSRw">
                     <div class="div_7zcS3FD">
-                        <img src="/public/img/picture/card-3.png">
-                        <img src="/public/img/picture/card-4.png">
+                        <img src="./public/img/picture/card-3.png">
+                        <img src="./public/img/picture/card-4.png">
                     </div>
                 </div>
                 <div class="div_34opSRw">

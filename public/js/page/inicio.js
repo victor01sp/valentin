@@ -10,7 +10,7 @@ export default ()=>{
                 <h2 class="text_q9YBVk8">Te ha llegado una carta</h2>
 
                 <div class="div_ZJ2dp0Q">
-                    <img src="/public/img/gif/card.gif">
+                    <img src="./public/img/gif/card.gif">
                 </div>
 
                 <button id="buttonOpen" class="button_XnkMNE1"> me abresssss... ¿?</button>
