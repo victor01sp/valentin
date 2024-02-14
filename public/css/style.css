@@ -1,0 +1,12 @@
+#root {
+  background: pink;
+
+  width: 100%;
+  height: 100dvh;
+}
+
+button {
+  background: none;
+  outline: none;
+  border: none;
+}

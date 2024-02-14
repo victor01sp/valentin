@@ -1,0 +1,51 @@
+/*  inicio */
+
+.div_J4MD532 {
+  width: 100%;
+  height: 100%;
+
+  background: #feeff4;
+
+  display: flex;
+}
+
+.div_E95EU0t {
+  margin: auto;
+  display: grid;
+  text-align: center;
+}
+
+.div_ZJ2dp0Q {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & img {
+    width: 100%;
+  }
+}
+
+.button_XnkMNE1 {
+  background: none;
+  color: #891524;
+
+  border: 1.25px solid #891524;
+  outline: none;
+
+  font-size: 15px;
+  font-weight: bold;
+
+  padding: 20px;
+  border-radius: 60px;
+}
+
+.text_q9YBVk8 {
+  color: #891524;
+  font-weight: bold;
+  font-size: 25px;
+}
+
